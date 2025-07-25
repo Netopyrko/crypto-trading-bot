@@ -1,0 +1,9 @@
+python-dotenv
+ccxt
+backtrader
+pandas
+numpy
+scikit-learn
+torch
+python-telegram-bot
+river
